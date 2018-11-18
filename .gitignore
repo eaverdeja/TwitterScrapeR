@@ -1,0 +1,6 @@
+.env
+.httr-oauth
+.config
+.Rproj.user
+.rstudio
+twitterClient.Rproj
